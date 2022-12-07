@@ -51,6 +51,6 @@ class Counter
 
 		void display()
 		{
-			cout<<"\t"<<head -> count<<"\n";
+			cout<<head -> count<<endl;
 		}
 };
